@@ -1,0 +1,16 @@
+{
+  "name": "reactjs-sync-nginx",
+  "version": "1.0.0",
+  "description": "automation build react js to public directory nginx",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "marshall telaumbanua",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.4.0",
+    "lodash": "^4.17.15",
+    "read-last-lines": "^1.7.2"
+  }
+}
